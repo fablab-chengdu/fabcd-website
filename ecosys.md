@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /echosys/
+permalink: /ecosys/
 ---
 一个交流、造物以及学习造物的社区。  
 
