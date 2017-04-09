@@ -1,17 +1,26 @@
 ---
 layout: page
-title: About
+title: FABLAB CHENGDU创客生态
 permalink: /ecosys/
 ---
-一个交流、造物以及学习造物的社区。  
+人们使用数字和模拟工具构建他们需要的东西，这一造物活动需要一个不断进化的创客生态。  
+基于本页面内容，我们生成了[成都创客地图](http://fablabchengdu.org/makermap/)。
 
-### 简介
+### 开放工作空间
+FAB CD LAB
+### 设计制造联盟
 
-我们认为Fablab是一种低成本的民间实验室，让人们使用数字和模拟工具构建他们需要的东西。 从简单的想法入手，构建强大的未来。Fablab Chengdu成立于2016年10月。由成都本地创客社区中最核心的一些人士联合发起建立。目前关注社区，环境，教育，生物等领域。目前主要在开展的项目是开源工具的本地化优化。本着fablab2.0的理念，依托强大国际创客社区，构建一个适合本地社区的开源全功能的工具包。涵盖工具，设备，软件，电子，控制器，生物合成等方面。  
-We believe that Fablab is a low-cost public Lab which provides chances for people to build what they need with digital and simulation tools. Start with a simple idea, and build a big future.  
-Built in Oct 2016, Fablab Chengdu is joint-launched by a few of the most essential people of local maker community. Concerned about the community, environment, education, biology and other fields, Fablab Chengdu is working on the project of localization of open source tools currently. Based on the idea of fablab 2.0, Fablab Chengdu aims to create a fully functional toolkit of open source for the local community relying on a strong international maker community, covering tools, equipment, software, electroni…etc.    
+### 创客活动组织
+Pitopia
+### 创客教育
+XMaker School
+### 本地市场
+|名称|地址|资源|
+|----|-----------|
+|万贯五金机电城|成都市金牛区中环路交大路段与交大路交叉口南100米万贯五金机电城(交大路)|机械、电气设备、材料西南最大市场|
+|金府灯具建材城|四川省成都市金牛区沙河源街道中环路金府路段|钢材、铝材、PVC管、铝材、工具、灯具等综合市场|
+|城隍庙电子市场|四川省成都市金牛区人民北路街道万胜电子成都市城北体育馆|电子元器件、五金工具、标准件、监控综合市场|
+|府河建材城|四川省成都市金牛区荷花池街道府河北街|木板、建材综合市场|
+### 本地其它创客社区
 
-
-### 联系
-
-[io@fablabchengdu.org](mailto:io@fablabchengdu.org)
+如果希望加入本生态，可以联系[io@fablabchengdu.org](mailto:io@fablabchengdu.org)
