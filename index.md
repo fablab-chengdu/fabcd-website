@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cover
 ---
 
 # 一个舒服的共享工具房
